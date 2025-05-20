@@ -63,14 +63,9 @@
   </a>
 </p>
 
-## GitHub Stats
-
-<a href="https://github.com/1M7md-CS">
-  <img src="https://github-readme-stats.vercel.app/api?username=1M7md-CS&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true" alt="Mohammad's GitHub stats" />
-</a>
 
 ## Projects
 
 - [Morse Code Translator](https://github.com/1M7md-CS/morse-code-translator): A simple and effective tool for translating text to Morse code and vice versa.
 - [Images to PDF Converter](https://github.com/1M7md-CS/images-to-pdf-converter): A Java CLI application that converts images to PDF with sorting options, using the iTextPDF library.
-- [expression-converter-and-evaluator](https://github.com/1M7md-CS/expression-converter-and-evaluator.git): A simple tool to convert mathematical expressions between Infix, Postfix, and Prefix notations — and evaluate them.
+- [expression-converter-and-evaluator](https://github.com/1M7md-CS/expression-converter-and-evaluator.git): A simple tool to convert expressions between Infix, Postfix, and Prefix notations — and evaluate them.
