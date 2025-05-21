@@ -62,10 +62,3 @@
     </picture>
   </a>
 </p>
-
-
-## Projects
-
-- [Morse Code Translator](https://github.com/1M7md-CS/morse-code-translator): A simple and effective tool for translating text to Morse code and vice versa.
-- [Images to PDF Converter](https://github.com/1M7md-CS/images-to-pdf-converter): A Java CLI application that converts images to PDF with sorting options, using the iTextPDF library.
-- [expression-converter-and-evaluator](https://github.com/1M7md-CS/expression-converter-and-evaluator.git): A simple tool to convert expressions between Infix, Postfix, and Prefix notations — and evaluate them.
