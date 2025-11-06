@@ -89,7 +89,7 @@
 ## 📊 My GitHub Stats
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1M7md-CS&layout=compact&langs_count=8&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1M7md-CS&layout=compact&langs_count=8&theme=radical&timestamp=1730874000">
 </p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=1M7md-CS&color=green)
