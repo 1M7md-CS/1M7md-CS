@@ -36,6 +36,13 @@
 </a>
 <div align="center">
 
+## 📊 My GitHub Stats
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1M7md-CS&layout=compact&langs_count=8&theme=radical&timestamp=1730874000" />
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=1M7md-CS&color=green" alt="Profile views" />
+</div>
+
 <h2 align="center">🌐 Connect With Me</h2>
 <div align="center">
 <a href="https://www.linkedin.com/in/mohammad-hammad-0603a0359/" target="_blank">
@@ -47,13 +54,6 @@
 <a href="https://discord.com/users/ol69." target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
-</div>
-
-## 📊 My GitHub Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1M7md-CS&layout=compact&langs_count=8&theme=radical&timestamp=1730874000" />
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=1M7md-CS&color=green" alt="Profile views" />
 </div>
 
 </div>
