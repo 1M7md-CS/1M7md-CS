@@ -37,10 +37,10 @@
 <div align="center">
 
 ## 📊 My GitHub Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1M7md-CS&layout=compact&langs_count=8&theme=radical&timestamp=1730874000" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1M7md-CS&layout=compact&langs_count=8&theme=radical&timestamp=1730875000" />
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=1M7md-CS&color=green" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=1M7md-CS&color=red" alt="Profile views" />
 </div>
 
 <h2 align="center">🌐 Connect With Me</h2>
