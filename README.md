@@ -30,8 +30,19 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
          width="36" height="36" alt="JavaScript">
   </a>
+
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
+         width="36" height="36" alt="TypeScript">
+  </a>
+
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
+         width="36" height="36" alt="React">
+  </a>
   
 </p>
+
 
 ---
 
@@ -71,7 +82,7 @@
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=1M7md-CS&layout=compact&langs_count=8&theme=radical&timestamp=1730874000">
+  <img height="200em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=1M7md-CS&layout=compact&langs_count=8&theme=radical&timestamp=1730874000">
   
   <br>
   
