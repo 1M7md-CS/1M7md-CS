@@ -10,42 +10,27 @@
 ## 💻 Tech Stack
 
 <p align="left">
-  
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg"
-         width="36" height="36" alt="Java">
+  <a href="https://www.oracle.com/java/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40"/>
   </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
-         width="36" height="36" alt="HTML5">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40"/>
   </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
-         width="36" height="36" alt="CSS3">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40"/>
   </a>
-
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
-         width="36" height="36" alt="Tailwind CSS">
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40"/>
   </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
-         width="36" height="36" alt="JavaScript">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40"/>
   </a>
-
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
-         width="36" height="36" alt="TypeScript">
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40"/>
   </a>
-
-  <a href="https://angular.io/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
-       width="36" height="36" alt="Angular">
+  <a href="https://angular.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/>
   </a>
-  
 </p>
 
 
@@ -54,31 +39,21 @@
 ## 🛠 Tools
 
 <p align="left">
-  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
-         width="36" height="36" alt="Git">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40"/>
   </a>
-
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/github/ffffff" width="36" height="36" alt="GitHub">
+  <a href="https://github.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/ffffff" width="40"/>
   </a>
-  
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg"
-         width="36" height="36" alt="VS Code">
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="40"/>
   </a>
-  
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"
-         width="36" height="36" alt="IntelliJ IDEA">
+  <a href="https://www.jetbrains.com/idea/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/>
   </a>
-  
-  <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg"
-         width="36" height="36" alt="WebStorm">
+  <a href="https://www.jetbrains.com/webstorm/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" width="40"/>
   </a>
-  
 </p>
 
 ---
