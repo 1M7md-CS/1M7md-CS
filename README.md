@@ -1,6 +1,6 @@
 # Mohammad Hammad [ 1M7md. ]
 
-**Computer Science Student | Java Backend & Full-Stack Development**
+**Computer Science Student | Full-Stack Developer | Spring Boot & Angular**
 
 - 🌍 Based in **Amman, Jordan**
 - ✉️ Contact: **[mohammadhammad.dev@gmail.com](mailto:mohammadhammad.dev@gmail.com)**
